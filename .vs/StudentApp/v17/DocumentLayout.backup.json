@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasindu\\source\\repos\\StudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E6BC54-4528-4973-9DD0-CE93479D1839}|StudentApp\\StudentApp.csproj|c:\\users\\hasindu\\source\\repos\\studentapp\\studentapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E6BC54-4528-4973-9DD0-CE93479D1839}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E6BC54-4528-4973-9DD0-CE93479D1839}|StudentApp\\StudentApp.csproj|c:\\users\\hasindu\\source\\repos\\studentapp\\studentapp\\studentapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{59E6BC54-4528-4973-9DD0-CE93479D1839}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\studentapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentApp.http",
+              "DocumentMoniker": "C:\\Users\\Hasindu\\source\\repos\\StudentApp\\StudentApp\\StudentApp.http",
+              "RelativeDocumentMoniker": "StudentApp\\StudentApp.http",
+              "ToolTip": "C:\\Users\\Hasindu\\source\\repos\\StudentApp\\StudentApp\\StudentApp.http",
+              "RelativeToolTip": "StudentApp\\StudentApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-06T06:58:33.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hasindu\\source\\repos\\StudentApp\\StudentApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Hasindu\\source\\repos\\StudentApp\\StudentApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentApp\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:51:29.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
